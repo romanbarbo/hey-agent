@@ -231,4 +231,4 @@ The bot detects the user's language and adapts the entire pipeline: search queri
 
 ## License
 
-MIT
+**MIT**
